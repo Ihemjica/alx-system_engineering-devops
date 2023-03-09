@@ -1,2 +1,27 @@
 #!/bin/bash
-find . -regex "..[A-Z].*" -exec cp {} /tmp/u \;
+cp A* /tmp/u
+cp B* /tmp/u
+cp C* /tmp/u
+cp D* /tmp/u
+cp E* /tmp/u
+cp F* /tmp/u
+cp G* /tmp/u
+cp H* /tmp/u
+cp I* /tmp/u
+cp J* /tmp/u
+cp K* /tmp/u
+cp L* /tmp/u
+cp M* /tmp/u
+cp N* /tmp/u
+cp O* /tmp/u
+cp P* /tmp/u
+cp Q* /tmp/u
+cp R* /tmp/u
+cp S* /tmp/u
+cp T* /tmp/u
+cp U* /tmp/u
+cp V* /tmp/u
+cp W* /tmp/u
+cp X* /tmp/u
+cp Y* /tmp/u
+cp Z* /tmp/u
